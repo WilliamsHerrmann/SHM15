@@ -1,0 +1,1 @@
+This is the text file I am making for Exercise 12 on Learn Python the Hard way
